@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viktech2" alt="vikash" /> </p> 
 
-## I'm a software engineer!
+## I'm a Software Development Engineer!
 
-- 🔭 I’m currently working on JavaScript, NodeJs projects (MEAN), MySQL, Cloud Computing (AWS, GCP) etc.!
+- 🔭 I’m currently working on JavaScript, NodeJs projects, Cloud, Serverless, DevOps, AWS, Containers etc.!
 
 - 📫 Reach out to me 👉
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikshaw/)](https://www.linkedin.com/in/vikshaw/) 
